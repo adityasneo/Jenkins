@@ -19,3 +19,7 @@ https://www.jenkins.io/doc/tutorials/tutorials-for-installing-jenkins-on-Google-
 Jenkinsfiles
 
 https://github.com/JaiTrieTree/jenkins-Pipeline-Scripts-
+
+Community
+
+https://www.jenkins.io/participate/connect/
