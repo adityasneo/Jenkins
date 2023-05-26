@@ -23,3 +23,13 @@ https://github.com/JaiTrieTree/jenkins-Pipeline-Scripts-
 Community
 
 https://www.jenkins.io/participate/connect/
+
+https://community.jenkins.io/c/using-jenkins/support/8
+
+Setting up Jenkins on GKE
+
+https://cloud.google.com/kubernetes-engine/docs/archive/jenkins-on-kubernetes-engine-tutorial
+
+
+
+
