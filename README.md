@@ -30,6 +30,9 @@ Setting up Jenkins on GKE
 
 https://cloud.google.com/kubernetes-engine/docs/archive/jenkins-on-kubernetes-engine-tutorial
 
+Scripted Pipeline
+
+https://docs.cloudbees.com/docs/cloudbees-ci/latest/pipeline-syntax-reference-guide/scripted-pipeline
 
 
 
