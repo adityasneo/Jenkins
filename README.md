@@ -34,5 +34,6 @@ Scripted Pipeline
 
 https://docs.cloudbees.com/docs/cloudbees-ci/latest/pipeline-syntax-reference-guide/scripted-pipeline
 
+Cloudbees
 
-
+https://docs.cloudbees.com/docs/cloudbees-jenkins-platform/latest/
