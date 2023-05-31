@@ -37,3 +37,7 @@ https://docs.cloudbees.com/docs/cloudbees-ci/latest/pipeline-syntax-reference-gu
 Cloudbees
 
 https://docs.cloudbees.com/docs/cloudbees-jenkins-platform/latest/
+
+
+Reverse proxy
+https://www.nginx.com/resources/glossary/reverse-proxy-server/
