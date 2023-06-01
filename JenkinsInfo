@@ -4,3 +4,7 @@ Jenkins.instance.pluginManager.plugins.each{
   plugin -> 
     println ("${plugin.getDisplayName()} (${plugin.getShortName()}): ${plugin.getVersion()}")
 }
+
+
+To check the project folders
+ls -lrt
