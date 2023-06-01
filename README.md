@@ -50,3 +50,4 @@ https://docs.cloudbees.com/docs/cloudbees-ci/latest/traditional-install-guide/hi
 
 Backup
 Peroidic Backup
+Ldap
