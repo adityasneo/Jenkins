@@ -24,6 +24,9 @@ Community
 
 https://www.jenkins.io/participate/connect/
 
+<img width="656" alt="image" src="https://github.com/adityasneo/Jenkins/assets/128022129/3d32b43c-406b-41d8-8577-10d05977942d">
+
+
 https://community.jenkins.io/c/using-jenkins/support/8
 
 Setting up Jenkins on GKE
