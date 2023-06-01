@@ -47,3 +47,5 @@ https://www.nginx.com/resources/glossary/reverse-proxy-server/
 
 HA
 https://docs.cloudbees.com/docs/cloudbees-ci/latest/traditional-install-guide/high-availability
+
+Backup
