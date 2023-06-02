@@ -1,3 +1,7 @@
 Install Jenkins in Google VM
 
 apt update
+
+snap install kubectl --classic
+
+kubectl version
