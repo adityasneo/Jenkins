@@ -1,3 +1,6 @@
+
+How to Setup Linux Master Slave Agent in Jenkins with SSH-KEY ?| EP 05 | Common Mistakes by Engineer -- > youtube
+
 root@jenkins-ubuntu-4-vm:/opt/jenkins# pwd
 /opt/jenkins
 root@jenkins-ubuntu-4-vm:/opt/jenkins# ssh-keygen
