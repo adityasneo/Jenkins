@@ -1,0 +1,36 @@
+root@jenkins-ubuntu-4-vm:/opt/jenkins# pwd
+/opt/jenkins
+root@jenkins-ubuntu-4-vm:/opt/jenkins# ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/root/.ssh/id_rsa): 
+/root/.ssh/id_rsa already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /root/.ssh/id_rsa
+Your public key has been saved in /root/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:82MHIjaunEDDIDJFaBcfZUlTFwJdDSgwTbz5SL0pUcc root@jenkins-ubuntu-4-vm
+The key's randomart image is:
++---[RSA 3072]----+
+| oo..+BB=o+=+    |
+|.o .. +=.+oE .   |
+|* .  .  * .      |
+|o+     = .       |
+|  +   = S +      |
+| . . o = B .     |
+|  .   . . + .    |
+|   o o   . o     |
+|    +            |
++----[SHA256]-----+
+root@jenkins-ubuntu-4-vm:/opt/jenkins# ls
+root@jenkins-ubuntu-4-vm:/opt/jenkins# cd .ssh
+-bash: cd: .ssh: No such file or directory
+root@jenkins-ubuntu-4-vm:/opt/jenkins# cd ~/.ssh/
+root@jenkins-ubuntu-4-vm:~/.ssh# ll
+total 16
+drwx------ 2 root root 4096 Jun  5 09:24 ./
+drwx------ 4 root root 4096 Jun  5 09:43 ../
+-rw------- 1 root root    0 Jun  5 09:13 authorized_keys
+-rw------- 1 root root 2610 Jun  5 09:58 id_rsa
+-rw-r--r-- 1 root root  578 Jun  5 09:58 id_rsa.pub
