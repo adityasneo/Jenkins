@@ -43,17 +43,3 @@ stage('Deploy')
 	echo 'this is scripted pipeline with stage Deploy'
 }	
 
-----------------
-specify slaves
-----------------
-master is label name 
-Slave 1 is agent display name
-node('master'){
-    
-    node('Slave 1'){
-		stage('Build')
-		{
-			echo 'this is node in stage Slave 1'
-		}
-    }
-}
